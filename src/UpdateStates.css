@@ -1,0 +1,16 @@
+.updateContainer {
+  margin: auto 45%;
+  width: 400px;
+  justify-content: center;
+  align-items: center;
+  margin-top: 20px;
+  background-color: darkgrey;
+  width: 180px;
+  height: 110px;
+  border-radius: 8px;
+}
+.bn {
+  margin: auto;
+  padding: 0px 10px;
+  background-color: darkgrey;
+}

@@ -1,0 +1,31 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.displayList__wrapper {
+  background-color: rgb(171, 196, 196);
+  margin: auto 45%;
+  width: 200px;
+  height: 150px;
+  justify-content: center;
+  align-items: center;
+  margin-top: 50px;
+  border-radius: 10px;
+}
+.kk {
+  /* background-color: black; */
+  border: 0px rgb(111, 115, 173);
+  padding: 4px 7px;
+  border-radius: 5px;
+  position: relative;
+  top: 5px;
+}
+.pp {
+  position: relative;
+  left: 135px;
+  top: 10px;
+  padding: 0px 10px;
+  background-color: cadetblue;
+}
